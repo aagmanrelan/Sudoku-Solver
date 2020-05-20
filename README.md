@@ -9,4 +9,6 @@ Value contains the number each object represents.
 
 isChangeable indicates weather the current object's value can be changed or not (Some of the values on the sudoku puzzles can not be changed)
 
-There are Appropriate Constructors and other related functions in the Number class
+There are Appropriate Constructors and other related functions in the Number class.
+
+The Program can not handle exceptions or non solvavle sudoku puzzles as of right now.
